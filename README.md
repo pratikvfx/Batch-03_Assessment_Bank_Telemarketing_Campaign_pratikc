@@ -1,0 +1,2 @@
+# Batch-03_Assessment_Bank_Telemarketing_Campaign_pratikc
+BA03_Module 1_Introduction to Data Management _Assignment-2_PratikC
